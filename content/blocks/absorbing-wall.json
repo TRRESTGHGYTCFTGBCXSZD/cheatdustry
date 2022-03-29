@@ -1,0 +1,11 @@
+{
+    "health": 1,
+    "size": 1,
+    "requirements": [
+  "phase-fabric/5",
+  "silicon/5"],
+    "category": "defense",
+    "research": "titanium-wall"
+	"absorbLasers": true
+	"insulated": true
+}

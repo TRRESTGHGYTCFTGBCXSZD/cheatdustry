@@ -1,0 +1,11 @@
+{
+    "health": 1,
+    "size": 1,
+    "requirements": [
+  "silicon/10"],
+    "category": "defense",
+    "research": "absorbing-wall"
+	"chanceDeflect": 2147483647
+	"absorbLasers": true
+	"insulated": true
+}
