@@ -1,0 +1,27 @@
+{
+	"type": "drill"
+    "health": 10000,
+    "size": 1,
+	"liquidCapacity": 480,
+	"tier": 2147483647,
+	"hardnessDrillMultiplier": 0,
+    "requirements": [
+		"titanium/100",
+		"thorium/100",
+		"plastanium/100",
+		"metaglass/100",
+		"silicon/100"
+	],
+    "category": "production",
+    "research": "blast-drill",
+	"drillTime": 1,
+	"liquidBoostIntensity": 2147483647,
+	"consumes": {
+	"liquid": {
+		"liquid": "water"
+		"amount": 0.01
+		"booster": true
+		"optional": true
+		}
+	}
+}
