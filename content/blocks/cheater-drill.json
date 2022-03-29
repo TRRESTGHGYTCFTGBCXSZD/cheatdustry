@@ -1,0 +1,22 @@
+{
+	"type": "drill"
+    "health": 10000,
+    "size": 1,
+	"liquidCapacity": 480,
+	"tier": 2147483647,
+	"hardnessDrillMultiplier": 0,
+    "requirements": [
+	],
+    "category": "production",
+    "research": "core-shard",
+	"drillTime": 1,
+	"liquidBoostIntensity": 2147483647,
+	"consumes": {
+	"liquid": {
+		"liquid": "water"
+		"amount": 0.01
+		"booster": true
+		"optional": true
+		}
+	}
+}
