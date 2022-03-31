@@ -1,0 +1,19 @@
+{
+	"type": "LogicBlock"
+    "health": 10000,
+    "size": 1,
+	"liquidCapacity": 480,
+	"range": 1600
+    "requirements": [
+		"phase-fabric/1200"
+		"metaglass/600"
+		"plastanium/600"
+		"surge-alloy/600"
+		"thorium/600"
+		"titanium/600"
+		"silicon/600"
+	],
+    "category": "logic",
+    "research": "extreme-processor",
+	"instructionsPerTick": 1000
+}

@@ -1,0 +1,34 @@
+{
+	"type": "LogicBlock"
+    "health": 10000,
+    "size": 2,
+	"liquidCapacity": 480,
+	"range": 1600
+    "requirements": [
+		"phase-fabric/300"
+		"metaglass/150"
+		"plastanium/150"
+		"surge-alloy/150"
+		"thorium/150"
+		"titanium/150"
+		"silicon/150"
+	],
+    "category": "logic",
+    "research": "hyper-processor",
+	"instructionsPerTick": 1000
+	"consumes": {
+	"items": {
+		"items": [
+			"phase-fabric/1"
+		]
+		"booster": false
+		"optional": false
+	}
+	"liquid": {
+		"liquid": "slag"
+		"amount": 0.5
+		"booster": false
+		"optional": false
+		}
+	}
+}
