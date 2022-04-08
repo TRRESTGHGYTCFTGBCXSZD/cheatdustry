@@ -1,0 +1,26 @@
+{
+	"type": "StackConveyor",
+	"placeableLiquid": true,
+	"health": 1000,
+	"speed": 1,
+	"recharge": 1,
+	"displayedSpeed": 120,
+    "requirements": [
+		"phase-fabric/2"
+		"metaglass/1"
+		"plastanium/1"
+		"surge-alloy/1"
+		"thorium/1"
+		"titanium/1"
+		"silicon/1"
+	],
+	"loadEffect": "dynamicExplosion"
+	"unloadEffect": "dynamicExplosion"
+	"category": "distribution",
+	"research": {
+		"parent": "ultimate-belt"
+		"objectives": [
+			"extreme-plastbelt"
+		]
+	}
+}

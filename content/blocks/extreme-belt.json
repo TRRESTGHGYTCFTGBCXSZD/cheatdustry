@@ -1,0 +1,15 @@
+{
+	"type": "Conveyor",
+	"placeableLiquid": true,
+	"health": 300,
+	"speed": 0.25,
+	"displayedSpeed": 30,
+    "requirements": [
+		"titanium/5"
+		"metaglass/1"
+		"plastanium/1"
+		"silicon/1"
+	],
+	"category": "distribution",
+	"research": "titanium-conveyor"
+}
