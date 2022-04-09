@@ -1,0 +1,42 @@
+{
+	"type": "GenericCrafter",
+    "health": 0,
+    "size": 4,
+    "requirements": [
+		"copper/100"
+		"lead/100"
+		"metaglass/100"
+		"graphite/100"
+		"titanium/100"
+		"thorium/100"
+		"silicon/100"
+		"plastanium/100"
+		"phase-fabric/100"
+		"surge-alloy/100"
+	],
+    "consumes": {
+		"items": {
+			"items": [
+				"copper/1"
+				"lead/1"
+				"metaglass/1"
+				"graphite/1"
+				"titanium/1"
+				"thorium/1"
+				"silicon/1"
+				"plastanium/1"
+				"phase-fabric/1"
+				"surge-alloy/1"
+			]
+		}
+		"power": 10
+	},
+	"outputItem": "squid/1"
+    "category": "crafting",
+	"research": {
+		"parent": "phase-weaver"
+		"objectives": [
+			"thorium-reactor"
+		]
+	}
+}

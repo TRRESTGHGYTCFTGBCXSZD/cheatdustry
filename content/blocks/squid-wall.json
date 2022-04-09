@@ -1,0 +1,12 @@
+{
+	"type": "wall",
+    "health": 100000,
+    "size": 1,
+    "requirements": [
+  "squid/50"],
+    "category": "defense",
+    "research": "titanium-wall"
+	"chanceDeflect": 2147483647,
+	"absorbLasers": true,
+	"insulated": true
+}
