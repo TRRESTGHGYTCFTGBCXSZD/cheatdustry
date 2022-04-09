@@ -1,0 +1,24 @@
+{
+	"type": "Junction",
+	"placeableLiquid": true,
+	"health": 1000,
+	"speed": 120,
+	"capacity": 100,
+	"displayedSpeed": 120,
+    "requirements": [
+		"phase-fabric/10"
+		"metaglass/5"
+		"plastanium/5"
+		"surge-alloy/5"
+		"thorium/5"
+		"titanium/5"
+		"silicon/5"
+	],
+	"category": "distribution",
+	"research": {
+		"parent": "ultimate-belt"
+		"objectives": [
+			"junction"
+		]
+	}
+}

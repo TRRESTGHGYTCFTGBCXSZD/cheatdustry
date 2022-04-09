@@ -1,0 +1,27 @@
+{
+	"type": "ItemBridge",
+	"placeableLiquid": true,
+	"health": 1000,
+	"transportTime": 0.01,
+	"range": 400,
+	"displayedSpeed": 120,
+	"arrowSpacing": 16
+	"moveArrows": false
+	"hasPower": false
+    "requirements": [
+		"phase-fabric/10"
+		"metaglass/5"
+		"plastanium/5"
+		"surge-alloy/5"
+		"thorium/5"
+		"titanium/5"
+		"silicon/5"
+	],
+	"category": "distribution",
+	"research": {
+		"parent": "ultimate-belt"
+		"objectives": [
+			"phase-conveyor"
+		]
+	}
+}

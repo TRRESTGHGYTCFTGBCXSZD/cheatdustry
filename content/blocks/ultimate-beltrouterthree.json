@@ -1,0 +1,19 @@
+{
+	"type": "Router",
+	"placeableLiquid": true,
+	"health": 9000,
+	"size": 3,
+	"speed": 1,
+	"displayedSpeed": 120,
+    "requirements": [
+		"phase-fabric/90"
+		"metaglass/45"
+		"plastanium/45"
+		"surge-alloy/45"
+		"thorium/45"
+		"titanium/45"
+		"silicon/45"
+	],
+	"category": "distribution",
+	"research": "ultimate-beltroutertwo"
+}

@@ -5,6 +5,8 @@
 	"speed": 1,
 	"recharge": 1,
 	"displayedSpeed": 120,
+	"bridgeReplacement": "ultimate-beltbridge"
+	"junctionReplacement": "ultimate-beltjunction"
     "requirements": [
 		"phase-fabric/2"
 		"metaglass/1"
