@@ -2,6 +2,7 @@
 	"type": "GenericCrafter",
     "health": 0,
     "size": 4,
+	"craftTime": 10,
     "requirements": [
 		"copper/100"
 		"lead/100"

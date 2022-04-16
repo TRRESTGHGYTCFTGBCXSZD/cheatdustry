@@ -1,0 +1,43 @@
+{
+	"type": "Separator",
+    "health": 1200,
+    "size": 4,
+	"liquidCapacity": 480,
+	"craftTime": 10,
+    "requirements": [
+		"metaglass/450"
+		"graphite/300"
+		"titanium/250"
+		"thorium/40"
+		"silicon/720"
+	],
+    "consumes": {
+		"items": {
+			"items": [
+				"metaglass/1"
+			]
+		}
+		"liquid": {
+			"liquid": "squid-paint",
+			"amount": 0.1
+		},
+		"power": 0.6
+	},
+	"results": [
+	"puzzloop-red-ball/1"
+	"puzzloop-green-ball/1"
+	"puzzloop-blue-ball/1"
+	"puzzloop-yellow-ball/1"
+	"puzzloop-cyan-ball/1"
+	"puzzloop-purple-ball/1"
+	"puzzloop-orange-ball/1"
+	"puzzloop-gray-ball/1"
+	]
+    "category": "crafting",
+	"research": {
+		"parent": "squid-condenser"
+		"objectives": [
+			"thorium-reactor"
+		]
+	}
+}
