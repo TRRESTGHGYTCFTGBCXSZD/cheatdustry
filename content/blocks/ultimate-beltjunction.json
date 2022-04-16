@@ -2,7 +2,7 @@
 	"type": "Junction",
 	"placeableLiquid": true,
 	"health": 1000,
-	"speed": 120,
+	"speed": 0,
 	"capacity": 100,
 	"displayedSpeed": 120,
     "requirements": [
