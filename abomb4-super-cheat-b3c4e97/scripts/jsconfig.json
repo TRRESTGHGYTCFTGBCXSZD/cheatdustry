@@ -1,9 +1,0 @@
-{
-    "compilerOptions": {
-        "baseUrl": "",
-        "target": "ES6"
-    },
-    "include": [
-        "**/*"
-    ]
-}
