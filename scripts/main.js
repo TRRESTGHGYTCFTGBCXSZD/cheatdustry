@@ -2,6 +2,7 @@
 require('super-cheat/lib')
 require('super-cheat/invincible-walls')
 require('puzzloop-balls')
+require('save-ma-baby')
 
 // Events.on(EventType.ClientLoadEvent, cons(e => {
 
