@@ -7,6 +7,6 @@ puzzloopgirlfriend.buildType = () => {
         this.super$onDestroyed();
         Groups.unit.each(u => u.team == this.team, u.kill());
         Groups.build.each(b => b.team == this.team && cores.includes(b.block), b.kill());
-    }
+    };
     });
 }

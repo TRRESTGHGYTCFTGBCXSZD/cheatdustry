@@ -8,5 +8,6 @@
     "research": "squid-condenser",
 	"enableDrawStatus": false,
 	"destructible": true,
+	"breakable": false,
 	"solid": true
 }
