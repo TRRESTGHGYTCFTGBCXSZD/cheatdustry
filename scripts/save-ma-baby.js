@@ -1,8 +1,4 @@
-const puzzloopgirlfriend = extendContent(Block, "save-ma-baby", {
-	load() {
-		this.super$load();
-	}}
-);
+const puzzloopgirlfriend = extendContent(Block, "save-ma-baby", {});
 const cores = [Blocks.coreShard, Blocks.coreFoundation, Blocks.coreNucleus];
 
 puzzloopgirlfriend.buildType = () => {
