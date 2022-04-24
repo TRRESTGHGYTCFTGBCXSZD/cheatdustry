@@ -7,10 +7,11 @@
 	"hardnessDrillMultiplier": 0,
     "requirements": [
 	],
+	"buildVisibility": "hidden",
     "category": "production",
     "research": "core-shard",
-	"drillTime": 1,
-	"liquidBoostIntensity": 2147483647,
+	"drillTime": 2147483647,
+	"liquidBoostIntensity": -2147483648,
 	"consumes": {
 	"liquid": {
 		"liquid": "water"
