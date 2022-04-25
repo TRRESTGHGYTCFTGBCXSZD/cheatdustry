@@ -1,6 +1,6 @@
 var lib = require('super-cheat/lib');
 
-const antumbraCore = extendContent(CoreBlock, "invincible-core", {
+const antumbraCore = extendContent(CoreBlock, "antumbra-core", {
     canBreak(tile) { return Vars.state.teams.cores(tile.team()).size > 1; },
     canReplace(other) { return other.alwaysReplace; },
     canPlaceOn(tile, team) { return true; },
