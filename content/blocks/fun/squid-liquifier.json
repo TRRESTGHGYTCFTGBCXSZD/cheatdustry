@@ -1,0 +1,32 @@
+{
+	"type": "GenericCrafter",
+    "health": 0,
+    "size": 6,
+	"craftTime": 240,
+    "requirements": [
+		"squid/50"
+	],
+    "consumes": {
+		"items": {
+			"items": [
+				"squid/1"
+			]
+		}
+		"liquid": {
+			"liquid": "water",
+			"amount": 0.25
+		},
+		"power": 10
+	},
+	"outputLiquid": {
+		"liquid": "squid-paint",
+		"amount": 60
+	},
+    "category": "crafting",
+	"research": {
+		"parent": "squid-condenser"
+		"objectives": [
+			"thorium-reactor"
+		]
+	}
+}

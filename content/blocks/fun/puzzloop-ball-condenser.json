@@ -35,9 +35,9 @@
 	]
     "category": "crafting",
 	"research": {
-		"parent": "squid-condenser"
+		"parent": "squid-liquifier"
 		"objectives": [
-			"thorium-reactor"
+			"squid-condenser"
 		]
 	}
 }
