@@ -1,8 +1,9 @@
 {
-	"type": "GenericCrafter",
+	"type": "LiquidConverter",
     "health": 0,
     "size": 6,
 	"craftTime": 240,
+	"liquidCapacity": 240,
     "requirements": [
 		"squid/50"
 	],
@@ -20,7 +21,7 @@
 	},
 	"outputLiquid": {
 		"liquid": "squid-paint",
-		"amount": 60
+		"amount": 0.25
 	},
     "category": "crafting",
 	"research": {
