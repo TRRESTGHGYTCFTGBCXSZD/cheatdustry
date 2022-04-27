@@ -1,6 +1,8 @@
 {
     "health": 4000,
     "size": 5,
+    "unitCapModifier": 60
+    "itemCapacity": 220000
     "requirements": [
 		"funni-senkyu-tokkae/50",
 	],
