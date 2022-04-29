@@ -1,0 +1,25 @@
+{
+	"type": "PayloadConveyor",
+	"placeableLiquid": true,
+	"health": 1000,
+	"size": 1,
+	"moveTime": 1,
+	"payloadLimit": 2147483647,
+	"interp": "linear",
+    "requirements": [
+		"phase-fabric/2"
+		"metaglass/1"
+		"plastanium/1"
+		"surge-alloy/1"
+		"thorium/1"
+		"titanium/1"
+		"silicon/1"
+	],
+	"category": "distribution",
+	"research": {
+		"parent": "ultimate-belt"
+		"objectives": [
+			"payload-conveyor"
+		]
+	}
+}
