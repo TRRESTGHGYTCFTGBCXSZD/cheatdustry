@@ -1,0 +1,25 @@
+{
+	"type": "Conduit",
+	"placeableLiquid": true,
+	"health": 1000,
+	"liquidCapacity": 1000,
+	"liquidPressure": 1000,
+	"no": "ultimate-beltbridge"
+	"junctionReplacement": "ultimate-pipejunction"
+    "requirements": [
+		"phase-fabric/2"
+		"metaglass/1"
+		"plastanium/1"
+		"surge-alloy/1"
+		"thorium/1"
+		"titanium/1"
+		"silicon/1"
+	],
+	"category": "liquid",
+	"research": {
+		"parent": "ultimate-belt"
+		"objectives": [
+			"conduit"
+		]
+	}
+}

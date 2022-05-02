@@ -1,0 +1,22 @@
+{
+	"type": "LiquidRouter",
+	"placeableLiquid": true,
+	"size": 3
+	"health": 1000,
+	"liquidCapacity": 90000,
+    "requirements": [
+		"phase-fabric/18"
+		"metaglass/9"
+		"plastanium/9"
+		"surge-alloy/9"
+		"thorium/9"
+		"titanium/9"
+		"silicon/9"
+	],
+	"category": "liquid",
+	"research": {
+		"parent": "ultimate-piperoutertwo"
+		"objectives": [
+		]
+	}
+}
