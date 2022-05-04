@@ -2,7 +2,7 @@
 	"type": "LiquidRouter",
 	"placeableLiquid": true,
 	"size": 4
-	"health": 1000,
+	"health": 16000,
 	"liquidCapacity": 160000,
     "requirements": [
 		"phase-fabric/32"

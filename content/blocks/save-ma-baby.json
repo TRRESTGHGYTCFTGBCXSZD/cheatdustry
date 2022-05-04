@@ -10,4 +10,5 @@
 	"destructible": true,
 	"breakable": false,
 	"solid": true
+	"buildVisibility": "editorOnly"
 }

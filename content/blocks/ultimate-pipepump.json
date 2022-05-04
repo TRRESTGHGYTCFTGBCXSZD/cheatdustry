@@ -1,0 +1,27 @@
+{
+	"type": "Pump",
+	"placeableLiquid": true,
+	"size": 8
+	"health": 64000,
+	"liquidCapacity": 640000,
+	"pumpAmount": 16
+    "requirements": [
+		"phase-fabric/2000"
+		"metaglass/1000"
+		"plastanium/1000"
+		"surge-alloy/1000"
+		"thorium/1000"
+		"titanium/1000"
+		"silicon/1000"
+	],
+    "consumes": {
+		"power": 200
+	},
+	"category": "liquid",
+	"research": {
+		"parent": "ultimate-pipe"
+		"objectives": [
+			"thermal-pump"
+		]
+	}
+}
