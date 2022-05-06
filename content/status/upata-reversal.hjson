@@ -1,0 +1,5 @@
+disarm: true
+speedMultiplier: -10
+dragMultiplier: 0
+reloadMultiplier: 0
+buildSpeedMultiplier: 0
