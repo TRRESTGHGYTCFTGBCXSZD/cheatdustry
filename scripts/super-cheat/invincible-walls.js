@@ -1,4 +1,4 @@
-var lib = require('super-cheat/lib');
+var lib = require('trrestghgytcftgbcxszdcheatdustry/super-cheat/lib');
 
 lib.setBuildingSimple(extendContent(Wall, "elastic-wall", {}), Wall.WallBuild, {
     damage(damage) {  },

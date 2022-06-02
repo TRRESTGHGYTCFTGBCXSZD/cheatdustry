@@ -1,6 +1,6 @@
 
-require('super-cheat/lib')
-require('super-cheat/invincible-walls')
+//require('super-cheat/lib')
+//require('super-cheat/invincible-walls')
 require('puzzloop-balls')
 require('save-ma-baby')
 require('antumbra-core')

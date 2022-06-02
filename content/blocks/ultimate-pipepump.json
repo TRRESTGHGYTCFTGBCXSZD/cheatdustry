@@ -21,7 +21,7 @@
 	"research": {
 		"parent": "ultimate-pipe"
 		"objectives": [
-			"thermal-pump"
+			"impulse-pump"
 		]
 	}
 }
