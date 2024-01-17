@@ -4,8 +4,8 @@
     "requirements": [
   "silicon/10"],
     "category": "defense",
-    "research": "titanium-wall"
-	"chanceDeflect": 2147483647
-	"absorbLasers": true
+    "research": "titanium-wall",
+	"chanceDeflect": 2147483647,
+	"absorbLasers": true,
 	"insulated": true
 }

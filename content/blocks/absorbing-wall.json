@@ -5,7 +5,7 @@
   "phase-fabric/5",
   "silicon/5"],
     "category": "defense",
-    "research": "elastic-wall"
-	"absorbLasers": true
+    "research": "elastic-wall",
+	"absorbLasers": true,
 	"insulated": true
 }
