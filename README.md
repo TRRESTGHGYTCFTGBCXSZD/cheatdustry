@@ -1,2 +1,2 @@
-# Fundustry
-A Superized Items and Fun Stuff is Here! through the internal name is cheatdustry...
+# Geriodustry
+Revolutionize the planet with Hyper Things.
