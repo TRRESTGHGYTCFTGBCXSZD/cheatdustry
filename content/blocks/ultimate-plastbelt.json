@@ -15,6 +15,7 @@
 		"thorium/1"
 		"titanium/1"
 		"silicon/1"
+		"gerio-alloy/1"
 	],
 	"loadEffect": "dynamicExplosion"
 	"unloadEffect": "dynamicExplosion"

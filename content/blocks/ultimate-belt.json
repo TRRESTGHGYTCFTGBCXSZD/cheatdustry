@@ -14,7 +14,13 @@
 		"thorium/1"
 		"titanium/1"
 		"silicon/1"
+		"gerio-alloy/1"
 	],
 	"category": "distribution",
-	"research": "extreme-belt"
+	"research": {
+		"parent": "extreme-belt"
+		"objectives": [
+			"gerio-crucible"
+		]
+	}
 }

@@ -1,8 +1,8 @@
 
 require('super-cheat/lib')
 require('super-cheat/invincible-walls')
-require('puzzloop-balls')
-require('save-ma-baby')
+//require('puzzloop-balls')
+//require('save-ma-baby')
 require('antumbra-core')
 
 // Events.on(EventType.ClientLoadEvent, cons(e => {

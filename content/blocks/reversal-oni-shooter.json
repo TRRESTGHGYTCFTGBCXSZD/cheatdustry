@@ -8,6 +8,8 @@
 	"reloadTime": 1
 	"shots": 1
 	"recoilAmount": 10
+	"ammoPerShot": 7
+	"maxAmmo": 210
 	"ammoUseEffect": "casing3"
 	"shootCone": 360
 	"rotateSpeed": 1000
@@ -17,7 +19,7 @@
 		"silicon/10000"
 	],
 	"ammoTypes": {
-		"when-your-upata-is-weird": {
+		"gerio-alloy": {
 			"speed": 8
 			"damage": 100
 			"lifetime": 100
@@ -27,17 +29,17 @@
 			"pierceCap": 2147483647
 			"shootEffect": "shootBig"
 			"smokeEffect": "shootBigSmoke"
-			"status": "upata-reversal"
-			"ammoMultiplier": 2
-			"frontColor": "FFC8E8ff"
-			"backColor": "FFC8E8ff"
+			"status": "reversal-oni"
+			"ammoMultiplier": 1
+			"frontColor": "a2dbd4ff"
+			"backColor": "a2dbd4ff"
 		}
 	}
     "category": "turret",
 	"research": {
-		"parent": "when-your-upata-is-weird-maker"
+		"parent": "meltdown"
 		"objectives": [
-		
+			"malign"
 		]
 	}
 }
