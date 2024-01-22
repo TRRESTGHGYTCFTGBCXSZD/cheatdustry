@@ -4,7 +4,7 @@
 	"health": 1000,
 	"liquidCapacity": 1000,
 	"liquidPressure": 1000,
-	"no": "ultimate-beltbridge"
+	"bridgeReplacement": "ultimate-pipebridge"
 	"junctionReplacement": "ultimate-pipejunction"
     "requirements": [
 		"phase-fabric/2"
@@ -14,6 +14,7 @@
 		"thorium/1"
 		"titanium/1"
 		"silicon/1"
+		"gerio-alloy/1"
 	],
 	"category": "liquid",
 	"research": {

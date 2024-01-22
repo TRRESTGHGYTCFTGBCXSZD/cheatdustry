@@ -1,10 +1,10 @@
 {
 	"type": "Pump",
 	"placeableLiquid": true,
-	"size": 8
+	"size": 4
 	"health": 64000,
 	"liquidCapacity": 640000,
-	"pumpAmount": 16
+	"pumpAmount": 64
     "requirements": [
 		"phase-fabric/2000"
 		"metaglass/1000"
@@ -13,11 +13,33 @@
 		"thorium/1000"
 		"titanium/1000"
 		"silicon/1000"
+		"gerio-alloy/1000"
 	],
     "consumes": {
 		"power": 200
 	},
 	"category": "liquid",
+	"drawer": {
+		"type": "DrawMulti"
+		"drawers": [
+			{
+				"type": "DrawRegion"
+				"suffix": "-bottom"
+			},
+			{
+				"type": "DrawPumpLiquid"
+			},
+			{
+				"type": "DrawRegion"
+				"suffix": "-impeller"
+				"spinSprite": true
+				"rotateSpeed": -16
+			},
+			{
+				"type": "DrawDefault"
+			},
+		]
+	}
 	"research": {
 		"parent": "ultimate-pipe"
 		"objectives": [
