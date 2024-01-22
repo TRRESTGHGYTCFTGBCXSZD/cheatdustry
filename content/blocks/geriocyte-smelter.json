@@ -1,0 +1,45 @@
+{
+	"type": "HeatCrafter",
+    "health": 1000,
+    "size": 3,
+	"craftTime": 180,
+	"itemCapacity": 10,
+    "requirements": [
+		"geriocyte/271"
+	],
+    "consumes": {
+		"items": {
+			"items": [
+				"geriocyte/5"
+			]
+		}
+	},
+	"heatRequirement": 7
+	"overheatScale": 0.3
+	"maxHeatEfficiency": 3
+	"outputItem": "gerio-alloy/1"
+    "category": "crafting",
+	"drawer": {
+		"type": "DrawMulti"
+		"drawers": [
+			{
+				"type": "DrawRegion"
+				"suffix": "-bottom"
+			},
+			{
+				"type": "DrawCultivator"
+				"plantColor": "FF8C2Fff"
+				"plantColorLight": "FFB269ff"
+				"bottomColor": "FF8C2Fff"
+			},
+			{
+				"type": "DrawDefault"
+			},
+		]
+	}
+	"research": {
+		"parent": "gerio-crucible"
+		"objectives": [
+		]
+	}
+}

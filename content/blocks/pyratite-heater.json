@@ -1,0 +1,28 @@
+{
+	"type": "HeatProducer",
+    "health": 1000,
+    "size": 2,
+	"craftTime": 200,
+	"itemCapacity": 10,
+    "requirements": [
+		"geriocyte/67",
+		"copper/147",
+		"plastanium/65",
+	],
+    "consumes": {
+		"items": {
+			"items": [
+				"pyratite/1"
+			]
+		}
+	},
+	"heatOutput": 12
+	"warmupRate": 0.3
+    "category": "crafting",
+	"research": {
+		"parent": "gerio-crucible"
+		"objectives": [
+			"slag-heater"
+		]
+	}
+}
