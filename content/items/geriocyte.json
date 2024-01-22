@@ -1,0 +1,9 @@
+{
+	"type": "Item"
+	"color": "599B8Fff"
+	"explosiveness": 0.05
+	"flammability": 0.1
+	"radioactivity": 0.3
+	"charge": 0.2
+	"hardness": 5
+}

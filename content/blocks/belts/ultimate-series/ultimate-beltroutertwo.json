@@ -6,14 +6,13 @@
 	"speed": 1,
 	"displayedSpeed": 120,
     "requirements": [
-		"phase-fabric/40"
-		"metaglass/20"
-		"plastanium/20"
-		"surge-alloy/20"
-		"thorium/20"
-		"titanium/20"
-		"silicon/20"
+		"gerio-alloy/15"
 	],
 	"category": "distribution",
-	"research": "ultimate-beltrouter"
+	"research": {
+		"parent": "ultimate-beltrouter"
+		"objectives": [
+			"distributor"
+		]
+	}
 }

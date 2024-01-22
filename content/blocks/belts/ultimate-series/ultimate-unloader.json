@@ -5,13 +5,7 @@
 	"speed": 1,
 	"displayedSpeed": 120,
     "requirements": [
-		"phase-fabric/20"
-		"metaglass/10"
-		"plastanium/10"
-		"surge-alloy/10"
-		"thorium/10"
-		"titanium/10"
-		"silicon/10"
+		"gerio-alloy/15"
 	],
 	"category": "distribution",
 	"research": {

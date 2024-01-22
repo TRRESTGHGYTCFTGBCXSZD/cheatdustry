@@ -6,14 +6,7 @@
 	"speed": 1,
 	"displayedSpeed": 120,
     "requirements": [
-		"phase-fabric/160"
-		"metaglass/80"
-		"plastanium/80"
-		"surge-alloy/80"
-		"thorium/80"
-		"titanium/80"
-		"silicon/80"
-		"gerio-alloy/80"
+		"gerio-alloy/60"
 	],
 	"category": "distribution",
 	"research": "ultimate-beltrouterthree"

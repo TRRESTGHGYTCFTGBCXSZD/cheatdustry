@@ -6,14 +6,7 @@
 	"speed": 1,
 	"displayedSpeed": 120,
     "requirements": [
-		"phase-fabric/90"
-		"metaglass/45"
-		"plastanium/45"
-		"surge-alloy/45"
-		"thorium/45"
-		"titanium/45"
-		"silicon/45"
-		"gerio-alloy/45"
+		"gerio-alloy/36"
 	],
 	"category": "distribution",
 	"research": "ultimate-beltroutertwo"

@@ -5,18 +5,13 @@
 	"health": 4000,
 	"liquidCapacity": 40000,
     "requirements": [
-		"phase-fabric/8"
-		"metaglass/4"
-		"plastanium/4"
-		"surge-alloy/4"
-		"thorium/4"
-		"titanium/4"
-		"silicon/4"
+		"gerio-alloy/20"
 	],
 	"category": "liquid",
 	"research": {
 		"parent": "ultimate-piperouter"
 		"objectives": [
+			"liquid-container"
 		]
 	}
 }

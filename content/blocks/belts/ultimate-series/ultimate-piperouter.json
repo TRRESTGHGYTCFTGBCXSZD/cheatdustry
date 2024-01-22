@@ -4,14 +4,7 @@
 	"health": 1000,
 	"liquidCapacity": 10000,
     "requirements": [
-		"phase-fabric/2"
-		"metaglass/1"
-		"plastanium/1"
-		"surge-alloy/1"
-		"thorium/1"
-		"titanium/1"
-		"silicon/1"
-		"gerio-alloy/1"
+		"gerio-alloy/3"
 	],
 	"category": "liquid",
 	"research": {

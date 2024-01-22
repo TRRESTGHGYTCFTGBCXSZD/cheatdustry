@@ -11,14 +11,7 @@
 	"hasPower": false
 	"bridgeWidth": 8
     "requirements": [
-		"phase-fabric/10"
-		"metaglass/5"
-		"plastanium/5"
-		"surge-alloy/5"
-		"thorium/5"
-		"titanium/5"
-		"silicon/5"
-		"gerio-alloy/5"
+		"gerio-alloy/6"
 	],
 	"drawer": {
 		"type": "DrawMulti"
@@ -40,7 +33,7 @@
 	"research": {
 		"parent": "ultimate-beltbridge"
 		"objectives": [
-			"bridge-conduit"
+			"phase-conduit"
 		]
 	}
 }
