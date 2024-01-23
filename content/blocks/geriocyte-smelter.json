@@ -3,7 +3,7 @@
     "health": 1000,
     "size": 3,
 	"craftTime": 180,
-	"itemCapacity": 10,
+	"itemCapacity": 50,
     "requirements": [
 		"geriocyte/271"
 	],

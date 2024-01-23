@@ -9,15 +9,21 @@
 		"gerio-alloy/430"
 	],
     "category": "production",
-    "research": "blast-drill",
+	"research": {
+		"parent": "blast-drill"
+		"objectives": [
+			"gerio-crucible"
+		]
+	}
 	"drillTime": 10,
-	"liquidBoostIntensity": 2.7,
+	"liquidBoostIntensity": 1.7,
 	"consumes": {
-	"liquid": {
-		"liquid": "water"
-		"amount": 0.01
-		"booster": true
-		"optional": true
+		"power": 3.4
+		"liquid": {
+			"liquid": "water"
+			"amount": 0.4
+			"booster": true
+			"optional": true
 		}
 	}
 }

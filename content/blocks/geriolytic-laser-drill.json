@@ -1,0 +1,30 @@
+{
+	"type": "BeamDrill"
+    "health": 10000,
+    "size": 3,
+	"liquidCapacity": 480,
+	"itemCapacity": 25,
+	"tier": 17,
+	"speed": 1,
+	"laserWidth": 0.8
+	"hardnessDrillMultiplier": 0,
+    "requirements": [
+		"gerio-alloy/580"
+	],
+    "category": "production",
+    "research": "geriolytic-drill",
+	"drillTime": 10,
+	"range": 56,
+	"heatColor": "599B8Fff",
+	"boostHeatColor": "ae80e6ff",
+	"optionalBoostIntensity": 1.7,
+	"consumes": {
+		"power": 3.4
+		"liquid": {
+			"liquid": "water"
+			"amount": 0.4
+			"booster": true
+			"optional": true
+		}
+	}
+}

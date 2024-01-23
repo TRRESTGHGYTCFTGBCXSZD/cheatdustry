@@ -9,7 +9,7 @@
 		"gerio-alloy/560"
 	],
     "consumes": {
-		"power": 200
+		"power": 12.6
 	},
 	"category": "liquid",
 	"drawer": {

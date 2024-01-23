@@ -4,6 +4,7 @@ require('super-cheat/invincible-walls')
 //require('puzzloop-balls')
 //require('save-ma-baby')
 require('antumbra-core')
+require('corvusturret')
 
 // Events.on(EventType.ClientLoadEvent, cons(e => {
 

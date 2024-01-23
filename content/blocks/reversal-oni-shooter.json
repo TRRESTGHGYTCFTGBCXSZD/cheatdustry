@@ -16,7 +16,7 @@
 	"range": 800
 	"itemCapacity": 690,
     "requirements": [
-		"silicon/10000"
+		"gerio-alloy/1520"
 	],
 	"ammoTypes": {
 		"gerio-alloy": {
