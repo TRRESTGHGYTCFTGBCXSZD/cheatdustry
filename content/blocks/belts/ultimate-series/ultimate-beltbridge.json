@@ -2,8 +2,9 @@
 	"type": "ItemBridge",
 	"placeableLiquid": true,
 	"health": 1000,
-	"transportTime": 0.01,
+	"transportTime": 0.001,
 	"range": 400,
+	"itemCapacity": 50,
 	"displayedSpeed": 120,
 	"arrowSpacing": 3
 	"moveArrows": true

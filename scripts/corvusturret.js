@@ -1,13 +1,17 @@
 const corvusTurret = extend(PowerTurret, "corvus-turret", {
 	category: Category.distribution,
 	buildVisibility: BuildVisibility.shown,
-	health: 60,
+	health: 18000,
 	size: 5,
 	recoil: 0,
 	reload: 350,
 	shake: 14,
 	shootY: 5,
 	moveWhileCharging: false,
+	range: 480,
+	targetHealing: true,
+	shootCone: 0.5,
+	rotateSpeed: 1.5,
 	requirements: ItemStack.with(
         Items.copper,0,
         Items.lead,20,
