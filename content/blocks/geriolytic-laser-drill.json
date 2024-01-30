@@ -15,6 +15,7 @@
     "research": "geriolytic-drill",
 	"drillTime": 10,
 	"range": 56,
+	"dumpTime": 0,
 	"heatColor": "599B8Fff",
 	"boostHeatColor": "ae80e6ff",
 	"optionalBoostIntensity": 1.7,
